@@ -31,10 +31,14 @@ span{
     padding: 10px;
     margin: 20 px;
     border: 20px;
-    background-color: azure;
+    background-color: grey;
     border-radius: 10px;
+    text-align: center;
 
 
+}
+.wyswietlaczInput{
+    width: 90%;
 }
 
 .klawiatura {
@@ -45,6 +49,23 @@ span{
     border-color: silver;
     padding: 2px;
     text-align: center;
-    background-color: azure;
+    background-color: dimgray;
     
+}
+#znakRownosci{
+    font-size: 25px;
+}
+.piec{
+/*
+    display: inline-block;
+    width: 20%;
+*/
+    height: auto;
+    
+}
+.btn-normal {
+    width: 18%;
+}
+.btn-normal1 {
+    width: 20%;
 }
